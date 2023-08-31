@@ -2,7 +2,9 @@
 
 Voraussetzung:
 Installation von Go Version 1.11.2 oder neuer.
-Für Windows muss das Paket gfx2 von Stefan Schmidt vom 3.3.2018 installiert werden. 
+Für Windows muss das Paket gfx2 von Stefan Schmidt vom 3.3.2018 installiert werden.
+Die aktuelle Version des gfx-Pakets findet sich unter http://lwb.mi.fu-berlin.de/inf/index.shtml und dann unter dem jeweiligen aktuellen Kurs (Menue links) und dann unter dem Link zu Materialien.
+(Umständlich, aber ich mach Herr Schmidt keine Vorschriften, wie er seine Webseite organisiert.)
 
 Hextension gibt es in zwei Versionen
     • Linux
